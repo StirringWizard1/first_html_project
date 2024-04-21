@@ -2,4 +2,5 @@
 
 # this is a test to see if my brach exists
 tree test
-tree test branch three commit
+tree test branch three commit \n
+cred check
