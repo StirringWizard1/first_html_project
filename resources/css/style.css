@@ -1,0 +1,28 @@
+/* CSS styles for the header and links */
+header {
+    background-color: #333; /* Example background color */
+    color: #fff; /* Example text color */
+    padding: 20px; /* Example padding */
+    text-align: center; /* Center-align the content */
+}
+
+h1 {
+    margin: 0; /* Remove default margin */
+    font-size: 24px; /* Example font size */
+}
+
+nav ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+}
+
+nav ul li {
+    display: inline; /* Display list items horizontally */
+    margin-right: 10px; /* Example margin between list items */
+}
+
+nav ul li a {
+    color: #fff; /* Example link color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Example font weight */
+}
